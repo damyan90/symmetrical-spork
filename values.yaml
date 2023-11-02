@@ -1,1 +1,2 @@
-- https://dev.azure.com/private/infra/_git/k8s-eventhub-reader
+repositories:
+  - https://dev.azure.com/private/infra/_git/k8s-eventhub-reader
